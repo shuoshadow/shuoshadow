@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 Cloud Native Developer at [Stoneatom](http://stoneatom.com/)
+- 💼 Cloud Native Developer at [StoneAtom](http://stoneatom.com/)
 
 - ❤️ I love writing Golang, and building fun experiments on type-level
 
