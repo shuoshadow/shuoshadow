@@ -2,7 +2,7 @@
 
 - 🧐 Interested in Infra. Recent focus on Kubernetes and Cloud Native.
 
-- 💼 Cloud Native Developer at [StoneAtom](http://stoneatom.com/)
+- 💼 Cloud Native Developer 
 
 - ❤️ I love writing Golang, and building fun experiments on type-level
 
