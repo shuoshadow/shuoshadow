@@ -22,6 +22,4 @@
 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/icons8-typescript-48.png" /></a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shuoshadow&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuoshadow&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
